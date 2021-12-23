@@ -1,0 +1,1 @@
+# JapaneseCounting_SimplifiedChineseVersion
